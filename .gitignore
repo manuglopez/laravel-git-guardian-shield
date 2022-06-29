@@ -1,0 +1,10 @@
+### Laravel ###
+/vendor/
+.idea/
+.idea/*/**/
+.DS_Store
+
+
+.env
+
+.phpunit.result.cache
